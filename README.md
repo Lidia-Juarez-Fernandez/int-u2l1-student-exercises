@@ -13,7 +13,7 @@
 5. [Code Solo](#code-solo)
 6. [Exit Ticket & Closing](#exit-ticket-closing)
 
-## Getting Started
+## Getting Started 
 
 - Login to Google Classroom for today’s lesson.
 - Fork today’s exercises from GitHub.
